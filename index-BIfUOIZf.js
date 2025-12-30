@@ -1,0 +1,1 @@
+import{j as s,B as m}from"./index-Bb-7Eb0M.js";import"./service-CAn2CIbF.js";import{e as p}from"./editor-DRcmtt4C.js";const d=t=>{const{value:o,attribute:e}=t,i=p(r=>r.setAssetsBarType),n=()=>{i("timeline"),e==null||e.editor.timelineManager.open(o)};return s.jsx(m,{onClick:n,children:"编辑"})};export{d as TimelineWrap};

@@ -1,0 +1,1 @@
+import{j as i,B as p}from"./index-Bb-7Eb0M.js";import"./service-CAn2CIbF.js";import{e as a}from"./editor-DRcmtt4C.js";const u=e=>{const{value:o,attribute:t}=e,r=a(s=>s.setAssetsBarType),n=()=>{r("blueprint"),t==null||t.editor.blueprintManager.open(o)};return i.jsx(p,{onClick:n,children:"编辑"})};export{u as BlueprintWrap};
