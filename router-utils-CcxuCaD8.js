@@ -1,0 +1,1 @@
+const c=new Map;function u(e,n,s=!0){const f=`#${e}`;if(!s&&n){const i=c.get(n);if(i&&!i.closed)return i.focus(),i}const o=window.open(f,n);return s&&(o==null||o.location.reload()),n&&o&&c.set(n,o),o}export{u as o};

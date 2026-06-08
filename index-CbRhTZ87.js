@@ -1,1 +1,0 @@
-import{z as r,bG as i}from"./index-BBbY6NWp.js";import{u as a}from"./useAttribute-CW3atJuU.js";const u=o=>{const{attribute:t}=o,[s,e]=a(t);return r.jsx(i,{style:{width:"100%",borderRadius:"4px"},disabled:t.disabled,options:t.options.options,value:s,onChange:e})};export{u as SelectWrap};
